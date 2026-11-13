@@ -1,6 +1,8 @@
 # دنیای شاد یاسین
 
-پروژه اندرویدی آفلاین دنیای یاسین. سورس کامل در فایل `source/YasinLand-Android-Final-Source.zip` قرار دارد.
+پروژه اندرویدی آفلاین دنیای یاسین.
 
-## ساخت APK
-از زبانه Actions، گردش‌کار **Build DonyayeYasin APK** را اجرا کنید. پس از پایان موفق، فایل APK را از بخش Artifacts با نام `DonyayeYasin-APK` دریافت کنید.
+## بارگذاری سورس و ساخت APK
+1. فایل `YasinLand-Android-Final-Source.zip` را در ریشه همین مخزن بارگذاری کنید.
+2. به زبانه Actions بروید و گردش‌کار **Build DonyayeYasin APK** را اجرا کنید.
+3. پس از موفقیت، فایل APK را از بخش Artifacts با نام `DonyayeYasin-APK` دریافت کنید.
