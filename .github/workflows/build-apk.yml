@@ -14,7 +14,7 @@ jobs:
       - name: Restore Android project from source archive
         run: |
           mkdir -p /tmp/yasin-src
-          unzip -q source/YasinLand-Android-Final-Source.zip -d /tmp/yasin-src
+          unzip -q YasinLand-Android-Final-Source.zip -d /tmp/yasin-src
           cp -a /tmp/yasin-src/yasinland-apk/. .
       - name: Set up JDK 17
         uses: actions/setup-java@v4
