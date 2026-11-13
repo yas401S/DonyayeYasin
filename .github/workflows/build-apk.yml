@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'source/**'
+      - 'YasinLand-Android-Final-Source.zip'
       - '.github/workflows/build-apk.yml'
 jobs:
   build:
